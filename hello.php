@@ -1,3 +1,4 @@
 <? 
-echo "hello world";
+echo "hello";
+echo "some more info";
 ?>
